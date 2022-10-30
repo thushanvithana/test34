@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView2" type="id" />
+    <item name="textView" type="id" />
+    <item name="button3" type="id" />
+    <item name="button5" type="id" />
+    <item name="button4" type="id" />
+    <item name="textView9" type="id" />
+    <item name="textView13" type="id" />
+    <item name="imageView" type="id" />
+    <item name="imageButton2" type="id" />
+    <item name="textView11" type="id" />
+    <item name="linearLayout2" type="id" />
+    <item name="textView12" type="id" />
+    <item name="textView17" type="id" />
+    <item name="imageButton3" type="id" />
+    <item name="imageButton4" type="id" />
+    <item name="imageButton5" type="id" />
+    <item name="imageButton6" type="id" />
+    <item name="textView10" type="id" />
+    <item name="textView19" type="id" />
+    <item name="textView21" type="id" />
+    <item name="textView22" type="id" />
+    <item name="imageView9" type="id" />
+    <item name="imageView5" type="id" />
+    <item name="imageView6" type="id" />
+    <item name="imageView7" type="id" />
+    <item name="guideline2" type="id" />
+    <item name="imageView8" type="id" />
+    <item name="imageView10" type="id" />
+</resources>
