@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="_12_events_found" />
+    <string name="todo9" />
+    <string name="art_zone6" />
+    <string name="songs" />
+    <string name="back4" />
+    <string name="_4_songs_found" />
+    <string name="_1_he_ll_want_to_use_your_yacht_n_he_ll_want_to_use_your_yacht" />
+    <string name="_2_he_ll_want_to_use_your_yacht_n_ll_want_to_use_your_yacht" />
+    <string name="_3_he_ll_want_to_use_your_yacht_n_want_to_use_your_yacht" />
+    <string name="_4_he_ll_want_to_use_your_yacht_n_to_use_your_yacht" />
+    <string name="todo10" />
+    <string name="todo11" />
+</resources>
